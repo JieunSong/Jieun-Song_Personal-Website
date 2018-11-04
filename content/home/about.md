@@ -36,4 +36,5 @@ weight = 5
 
 # About
 
-I am a speech scientist working as a postdoctoral researcher in the Dept. of Speech, Hearing and Phonetic Sciences at University College London. I'm interested in investigating how listeners process speech in adverse conditions at early auditory and higher linguistic levels using EEG. My research has primarily focused on speech processing for second language. I am also involved with other projects on Korean prosody, language acquisition and the effect of cognitive load on phoneme perception.
+I am a postdoctoral researcher in the Dept. of Speech, Hearing and Phonetic Sciences at University College London. I'm interested in investigating how listeners process information in the speech signal in realistic environments using EEG. My research has primarily focused on speech processing for second language. I am also involved with other projects on Korean prosody, language acquisition and second-language speech learning.
+FYI, my first name is pronounced [tɕi ɨn].

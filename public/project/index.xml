@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jieun Song</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Jieun Song</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Listening effort and multilingual speech communication: Neural measures of auditory and lexical processing by adults and older children</title>
+      <link>/project/listening-effort/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/listening-effort/</guid>
+      <description>I am a postdoctoral reseacher on this ESRC grant (October 2017 - September 2020, PI: Prof. Paul Iverson). You can see a summary of this project here, and please find related work on Publications &amp;amp; Presentations.
+People feel like they need to &amp;ldquo;listen harder&amp;rdquo; when communicating in a second language, but it isn&amp;rsquo;t clear how this effort changes the brain processes involved in recognising speech. Our initial research has produced a surprising finding; we tested people who were trying to listen to a talker in a noisy background (i.</description>
+    </item>
+    
+    <item>
+      <title>Prosodic disambiguation of wh-words in Korean</title>
+      <link>/project/korean-prosody/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/korean-prosody/</guid>
+      <description>I have been working on this project in collaboration with Prof. Jieun Kiaer at University of Oxford. In Korean, sentences with wh-words can be ambiguous between wh-questions and yes-no questions as a wh-word (e.g., 뭐) can be used either as a wh-pronoun (“what”) or an indefinite pronoun (“something”). Previous work has shown that prosody, especially accentual phrasing plays a role in diambiguating such sentences (Jun &amp;amp; Oh, 1996; Yun, 2012). However, yes-no questions reading often occurs with certain experiential or attitudinal/softening adverbs (e.</description>
+    </item>
+    
+  </channel>
+</rss>

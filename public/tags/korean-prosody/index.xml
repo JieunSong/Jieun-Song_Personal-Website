@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Korean-prosody on Jieun Song</title>
+    <link>/tags/korean-prosody/</link>
+    <description>Recent content in Korean-prosody on Jieun Song</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/korean-prosody/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Prosodic disambiguation of wh-words in Korean</title>
+      <link>/project/korean-prosody/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/korean-prosody/</guid>
+      <description>I have been working on this project in collaboration with Prof. Jieun Kiaer at University of Oxford. In Korean, sentences with wh-words can be ambiguous between wh-questions and yes-no questions as a wh-word (e.g., 뭐) can be used either as a wh-pronoun (“what”) or an indefinite pronoun (“something”). Previous work has shown that prosody, especially accentual phrasing plays a role in diambiguating such sentences (Jun &amp;amp; Oh, 1996; Yun, 2012). However, yes-no questions reading often occurs with certain experiential or attitudinal/softening adverbs (e.</description>
+    </item>
+    
+  </channel>
+</rss>

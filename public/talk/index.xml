@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Jieun Song</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Jieun Song</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exploring cortical and subcortical responses to continuous speech</title>
+      <link>/talk/aesop/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/aesop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of semantic cues in prosodic disambiguation of wh-phrases in Korean</title>
+      <link>/talk/baap/</link>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/baap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second language speech processing in realistic environments: An electrophysiological investigation</title>
+      <link>/talk/snu/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/snu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-linguistic perception of continuous speech: Neural entrainment to the speech amplitude envelope</title>
+      <link>/talk/asa/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/asa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

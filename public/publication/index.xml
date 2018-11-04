@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Jieun Song</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Jieun Song</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>아이들은 도대체 어떻게 언어를 배울까?</title>
+      <link>/publication/book/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Listening effort during speech perception enhances auditory and lexical processing for non-native listeners and accents</title>
+      <link>/publication/cognition/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of adverse conditions on speech recognition by nonnative listeners: Electrophysiological and behavioural evidence</title>
+      <link>/publication/phd/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Sentence Stress Feedback for Non-native English Learners</title>
+      <link>/publication/csl/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/csl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring speech-in-noise intelligibility for spontaneous speech: The effect of native and non-native accents</title>
+      <link>/publication/spontaneous/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/spontaneous/</guid>
+      <description>#More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Variable Schwa Deletion in English: A Corpus Study</title>
+      <link>/publication/phonology/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/phonology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

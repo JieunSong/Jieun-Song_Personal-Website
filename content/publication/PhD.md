@@ -33,7 +33,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename of your project in `content/project/`.
 #   Otherwise, set `projects = []`.
-projects = ["listening effort.md"]
+#projects = ["listening effort.md"]
 
 # Links (optional).
 url_pdf = "http://discovery.ucl.ac.uk/10041104/"

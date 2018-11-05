@@ -16,7 +16,7 @@ selected = false
 #   Associate this talk with one or more of your projects.
 #   Simply enter the filename of your project file in `content/project/`.
 #   Otherwise, set `projects = []`.
-projects = ["Korean prosody.md"]
+#projects = ["Korean prosody.md"]
 
 # Links (optional).
 #url_pdf = "https://gbiomed.kuleuven.be/english/research/50000666/50000672/Symposia/aesop/aesop-abstract-book.pdf"

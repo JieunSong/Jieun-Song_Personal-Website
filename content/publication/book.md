@@ -17,7 +17,7 @@ authors = ["Jieun Kiaer & Jieun Song"]
 publication_types = ["5"]
 
 # Publication name and optional abbreviated version.
-publication = "사이언스 북스 (출판 예정)"
+publication = "Seoul: Science Books"
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.

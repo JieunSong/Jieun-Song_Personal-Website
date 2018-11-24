@@ -19,7 +19,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Speech, Hearing & Phonetic Sciences"
-  institution = "University College London (UCL)"
+  institution = "University College London"
   year = 2018
 
 [[education.courses]]
@@ -35,6 +35,6 @@ weight = 5
 +++
 
 # About
-I’m currently a postdoctoral researcher in the [Dept. of Speech, Hearing and Phonetic Sciences at University College London](https://www.ucl.ac.uk/pals/research/speech-hearing-and-phonetic-sciences). Using electroencephalogram (EEG), I’m interested in investigating how listeners process information (e.g., acoustic or lexical) in the speech signal in real time, especially in challenging listening environments. My recent research has primarily focused on speech processing by second-language listeners, and how listening effort modulates specific aspects of speech perception. I am also involved in other projects on Korean prosody, language acquisition and second-language speech learning.
+I’m currently a postdoctoral researcher in the [Dept. of Speech, Hearing and Phonetic Sciences at University College London](https://www.ucl.ac.uk/pals/research/speech-hearing-and-phonetic-sciences) (UCL). Using electroencephalogram (EEG), I’m interested in investigating how listeners process information (e.g., acoustic or lexical) in the speech signal in real time, especially in challenging listening environments. My recent research has primarily focused on speech processing by second-language listeners, and how listening effort modulates specific aspects of speech perception. I am also involved in other projects on Korean prosody, language acquisition and second-language speech learning.
 
 FYI, my first name is pronounced [tɕi ɨn].

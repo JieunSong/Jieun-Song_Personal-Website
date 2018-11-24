@@ -1,5 +1,5 @@
 +++
-title = "아이들은 도대체 어떻게 언어를 배울까?"
+title = "How do chilren learn language?"
 date = 2019-03-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

@@ -19,7 +19,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Speech, Hearing & Phonetic Sciences"
-  institution = "University College London"
+  institution = "University College London (UCL)"
   year = 2018
 
 [[education.courses]]

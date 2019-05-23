@@ -21,7 +21,7 @@ publication = "Seoul: Science Books"
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
-abstract = "Please see the link below if you want to know more about our book on language acquisition."
+abstract = "This is an introductory textbook on language acquisition I wrote with Dr. Jieun Kiaer at University of Oxford. Please see the link below if you want to know more about the book."
 
 # Featured image thumbnail (optional)
 image_preview = ""

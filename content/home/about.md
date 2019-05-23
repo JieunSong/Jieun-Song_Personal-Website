@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Neural mechanisms of Speech Processing",
+    "Neural Processing of Speech",
     "Second Language Speech Learning",
     "Bilingualism",
     "Korean Phonetics"

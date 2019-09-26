@@ -65,7 +65,7 @@ enableGitInfo = false
   organizations = [ { name = "Dept. of Speech, Hearing & Phonetic Sciences,  University College London", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "IMG_1807.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "jieun song.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "jieun.song@ucl.ac.uk"
   address = "Chandler House, 2 Wakefield Street, London, United Kingdom, WC1N 1PF"
   office_hours = "email for appointment"

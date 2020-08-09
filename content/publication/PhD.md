@@ -36,7 +36,7 @@ selected = false
 #projects = ["listening effort.md"]
 
 # Links (optional).
-url_pdf = "http://discovery.ucl.ac.uk/10041104/"
+url_source = "http://discovery.ucl.ac.uk/10041104/"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"

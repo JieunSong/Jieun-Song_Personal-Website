@@ -1,9 +1,9 @@
 +++
-title = "Measuring speech-in-noise intelligibility for spontaneous speech: The effect of native and non-native accents"
-date = 2015-08-01T00:00:00
+title = "Variable Schwa Deletion in English: A Corpus Study"
+date = 2013-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jieun Song & Paul Iverson"]
+authors = ["Jieun Song"]
 
 # Publication type.
 # Legend:
@@ -14,10 +14,10 @@ authors = ["Jieun Song & Paul Iverson"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the 18th International Congress of Phonetic Sciences"
+publication = "Studies in Phonetics, Phonology and Morphology 19(1)"
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
@@ -36,7 +36,7 @@ selected = false
 #projects = ["example-external-project.md"]
 
 # Links (optional).
-url_source = "https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS0645.pdf"
+#url_pdf = "https://authors.elsevier.com/sd/article/S0010027718301549"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"
@@ -63,3 +63,4 @@ highlight = true
 #caption = "My caption :smile:"
 
 +++
+

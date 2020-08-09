@@ -37,7 +37,7 @@ selected = false
 #projects = ["example-external-project.md"]
 
 # Links (optional).
-url_pdf = "https://www.sciencedirect.com/science/article/pii/S0885230816301759"
+url_source = "https://www.sciencedirect.com/science/article/pii/S0885230816301759"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"

@@ -4,8 +4,8 @@ widget = "talks"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Recent Presentations"
-subtitle = ""
+title = "Presentations"
+subtitle = "These are my recent invited talks and conference presentations of studies that haven't been published."
 
 # Order that this section will appear in.
 weight = 30

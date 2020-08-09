@@ -28,7 +28,7 @@
     {{ $page := . }}
     {{ $project := .File.TranslationBaseName }}
     {{ $project_path := printf "%s/%s/" .Section $project }}
-
+    
     {{ if (.Site.Params.projects.list_children | default true) }}
       {{ $items := where (where .Site.RegularPages "Type" "publication") ".Params.projects" "intersect" (slice $project) }}
       {{ $items := $items | union (where (where .Site.RegularPages "Type" "publication") ".Params.url_project" $project_path) }}

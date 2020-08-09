@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Jieun Song</title>
+    <title>Tags on Jieun Song  송지은</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Jieun Song</description>
+    <description>Recent content in Tags on Jieun Song  송지은</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,16 +15,25 @@
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
       <link>/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
       
       <guid>/tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
+      <title>EEG</title>
+      <link>/tags/eeg/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/eeg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>KoreanProsody</title>
       <link>/tags/koreanprosody/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
       
       <guid>/tags/koreanprosody/</guid>
       <description></description>
@@ -33,18 +42,27 @@
     <item>
       <title>L2</title>
       <link>/tags/l2/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
       
       <guid>/tags/l2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ListeningEffort</title>
-      <link>/tags/listeningeffort/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      <title>L2 speech evaluation</title>
+      <link>/tags/l2-speech-evaluation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
       
-      <guid>/tags/listeningeffort/</guid>
+      <guid>/tags/l2-speech-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LanguageAcquisition</title>
+      <link>/tags/languageacquisition/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/languageacquisition/</guid>
       <description></description>
     </item>
     
@@ -72,6 +90,15 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rhythm</title>
+      <link>/tags/rhythm/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/rhythm/</guid>
       <description></description>
     </item>
     

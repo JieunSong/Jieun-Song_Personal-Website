@@ -1,34 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Jieun Song</title>
+    <title>Projects on Jieun Song  송지은</title>
     <link>/project/</link>
-    <description>Recent content in Projects on Jieun Song</description>
+    <description>Recent content in Projects on Jieun Song  송지은</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Listening effort and multilingual speech communication: Neural measures of auditory and lexical processing by adults and older children</title>
+      <title>Child Language Acquisition</title>
+      <link>/project/language-acquisition/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/project/language-acquisition/</guid>
+      <description>I have been actively involved in other projects on child language development. I have written a book on child language acquisition with Dr. Jieun Kiaer at the University of Oxford, which was published in 2019 by a highly prestigious publishing house of South Korea, Science Books. While writing this monograph, I became more interested in broader issues on language development and multilingualism. I am collaborating with researchers at Seoul National University and Dr.</description>
+    </item>
+    
+    <item>
+      <title>L2 speech evaluation</title>
+      <link>/project/automaticassessment/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/project/automaticassessment/</guid>
+      <description>Prof. Ho-Young Lee at Seoul National University and I published an article in Applied Psycholinguistics in 2019 where we proposed using our sentence stress metrics to evaluate the speech rhythm of non-native speakers of English. This study demonstrated that sentence stress scores of Korean learners of English were highly correlated with their overall speaking proficiency. This study started as part of a larger project with computer engineers where we built an automatic sentence stress feedback system for Korean learners of English, and this system was found to improve their pronunciation (published in Computer Speech and Language, 2017).</description>
+    </item>
+    
+    <item>
+      <title>Neurophysiological investigation of listening effort and multilingual communication</title>
       <link>/project/listening-effort/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
       
       <guid>/project/listening-effort/</guid>
-      <description>I am a postdoctoral reseacher on this ESRC grant (October 2017 - September 2020, PI: Prof. Paul Iverson). You can see a summary of this project here, and please find related work on Publications &amp;amp; Presentations.
-People feel like they need to &amp;ldquo;listen harder&amp;rdquo; when communicating in a second language, but it isn&amp;rsquo;t clear how this effort changes the brain processes involved in recognising speech. Our initial research has produced a surprising finding; we tested people who were trying to listen to a talker in a noisy background (i.</description>
+      <description>Listening to a second language (L2) in real life situations (e.g., a noisy restaurant) can be challenging. Native listeners can flexibly modulate their speech processing to overcome the demands of a noisy environment e.g., use semantic-contextual information to understand what is being said. We know very little, however, about the strategies second-language listeners use to enhance their listening. Using electroencephalography (EEG), my PhD work published in Cognition demonstrated that greater listening effort exerted by L2 listeners enhances their auditory processing, as measured by neural tracking of speech, even though their linguistic processes (e.</description>
     </item>
     
     <item>
       <title>Prosodic disambiguation of wh-words in Korean</title>
       <link>/project/korean-prosody/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
       
       <guid>/project/korean-prosody/</guid>
-      <description>I have been working on this project in collaboration with Dr. Jieun Kiaer at the University of Oxford and Dr. Haesung Jeon at the University of Central Lancashire. In Korean, sentences with wh-words can be ambiguous between wh-questions and yes-no questions as a wh-word (e.g., 뭐) can be used either as a wh-pronoun (“what”) or an indefinite pronoun (“something”). Previous work has shown that prosody, especially accentual phrasing plays a role in diambiguating such sentences (Jun &amp;amp; Oh, 1996; Yun, 2012).</description>
+      <description>I have been working on this project in collaboration with Dr. Jieun Kiaer at the University of Oxford and Dr. Haesung Jeon at the University of Central Lancashire. In Korean, sentences with wh-words can be ambiguous between wh-questions and yes-no questions as a wh-word (e.g., 뭐) can be used either as a wh-pronoun (“what”) or an indefinite pronoun (“so</description>
     </item>
     
   </channel>

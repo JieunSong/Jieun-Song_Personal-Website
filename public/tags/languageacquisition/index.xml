@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LanguageAcquisition on Jieun Song  송지은</title>
+    <link>/tags/languageacquisition/</link>
+    <description>Recent content in LanguageAcquisition on Jieun Song  송지은</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/tags/languageacquisition/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Child Language Acquisition</title>
+      <link>/project/language-acquisition/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/project/language-acquisition/</guid>
+      <description>I have been actively involved in other projects on child language development. I have written a book on child language acquisition with Dr. Jieun Kiaer at the University of Oxford, which was published in 2019 by a highly prestigious publishing house of South Korea, Science Books. While writing this monograph, I became more interested in broader issues on language development and multilingualism. I am collaborating with researchers at Seoul National University and Dr.</description>
+    </item>
+    
+  </channel>
+</rss>

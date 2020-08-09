@@ -1,21 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Jieun Song</title>
+    <title>Publications on Jieun Song  송지은</title>
     <link>/publication/</link>
-    <description>Recent content in Publications on Jieun Song</description>
+    <description>Recent content in Publications on Jieun Song  송지은</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>The role of prosodic and visual information in disambiguating wh-phrases: The case of Korean three-year-olds</title>
+      <link>/publication/cho/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0900</pubDate>
+      
+      <guid>/publication/cho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Auditory neural tracking and lexical processing of speech in noise: Masker type, spatial location, and language experience</title>
       <link>/publication/jasa/</link>
-      <pubDate>Thu, 16 Jul 2020 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0900</pubDate>
       
       <guid>/publication/jasa/</guid>
       <description></description>
@@ -24,16 +33,25 @@
     <item>
       <title>Evaluating Korean learners’ English rhythm proficiency with measures of sentence stress</title>
       <link>/publication/appliedpsycholing/</link>
-      <pubDate>Mon, 02 Sep 2019 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0900</pubDate>
       
       <guid>/publication/appliedpsycholing/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Native and non-native speech recognition in noise: neural measures of auditory and lexical processing</title>
+      <link>/publication/icphs2019/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/publication/icphs2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>언어의 아이들: 아이들은 도대체 어떻게 언어를 배울까?</title>
       <link>/publication/book/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0900</pubDate>
       
       <guid>/publication/book/</guid>
       <description></description>
@@ -42,7 +60,7 @@
     <item>
       <title>Listening effort during speech perception enhances auditory and lexical processing for non-native listeners and accents</title>
       <link>/publication/cognition/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0900</pubDate>
       
       <guid>/publication/cognition/</guid>
       <description></description>
@@ -51,7 +69,7 @@
     <item>
       <title>The effects of adverse conditions on speech recognition by nonnative listeners: Electrophysiological and behavioural evidence</title>
       <link>/publication/phd/</link>
-      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0900</pubDate>
       
       <guid>/publication/phd/</guid>
       <description></description>
@@ -60,7 +78,7 @@
     <item>
       <title>Automatic Sentence Stress Feedback for Non-native English Learners</title>
       <link>/publication/csl/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
       
       <guid>/publication/csl/</guid>
       <description></description>
@@ -69,9 +87,18 @@
     <item>
       <title>Measuring speech-in-noise intelligibility for spontaneous speech: The effect of native and non-native accents</title>
       <link>/publication/spontaneous/</link>
-      <pubDate>Sat, 01 Aug 2015 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0900</pubDate>
       
       <guid>/publication/spontaneous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable Schwa Deletion in English: A Corpus Study</title>
+      <link>/publication/phonology/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0900</pubDate>
+      
+      <guid>/publication/phonology/</guid>
       <description></description>
     </item>
     

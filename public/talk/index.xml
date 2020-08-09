@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Jieun Song</title>
+    <title>Recent &amp; Upcoming Talks on Jieun Song  송지은</title>
     <link>/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Jieun Song</description>
+    <description>Recent content in Recent &amp; Upcoming Talks on Jieun Song  송지은</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>The role of listening effort in second-language speech processing</title>
       <link>/talk/snu2019/</link>
-      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0900</pubDate>
       
       <guid>/talk/snu2019/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Interaction of semantic and prosodic cues in the disambiguation of wh-words in Korean</title>
       <link>/talk/oxford/</link>
-      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0900</pubDate>
       
       <guid>/talk/oxford/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Exploring cortical and subcortical responses to continuous speech</title>
       <link>/talk/aesop/</link>
-      <pubDate>Thu, 10 May 2018 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0900</pubDate>
       
       <guid>/talk/aesop/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Cross-linguistic perception of continuous speech: Neural entrainment to the speech amplitude envelope</title>
       <link>/talk/asa/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0900</pubDate>
       
       <guid>/talk/asa/</guid>
       <description></description>

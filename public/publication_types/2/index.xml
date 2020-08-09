@@ -1,24 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on Jieun Song</title>
+    <title>2 on Jieun Song  송지은</title>
     <link>/publication_types/2/</link>
-    <description>Recent content in 2 on Jieun Song</description>
+    <description>Recent content in 2 on Jieun Song  송지은</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0100</pubDate>
+      <title>Auditory neural tracking and lexical processing of speech in noise: Masker type, spatial location, and language experience</title>
+      <link>/publication/jasa/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0900</pubDate>
       
-      <guid>/publication/person-re-identification/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/jasa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Korean learners’ English rhythm proficiency with measures of sentence stress</title>
+      <link>/publication/appliedpsycholing/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/publication/appliedpsycholing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Listening effort during speech perception enhances auditory and lexical processing for non-native listeners and accents</title>
+      <link>/publication/cognition/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/publication/cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Sentence Stress Feedback for Non-native English Learners</title>
+      <link>/publication/csl/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
+      
+      <guid>/publication/csl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable Schwa Deletion in English: A Corpus Study</title>
+      <link>/publication/phonology/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0900</pubDate>
+      
+      <guid>/publication/phonology/</guid>
+      <description></description>
     </item>
     
   </channel>

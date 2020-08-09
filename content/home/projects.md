@@ -1,7 +1,7 @@
 +++
 # Projects widget.
 widget = "projects"
-active = false
+active = true
 date = 2016-04-20T00:00:00
 
 title = "Projects"
@@ -32,17 +32,17 @@ filter_default = 0
   name = "All"
   tag = "*"
 [[filter]]
-  name = "Listening Effort & Multilingual communication"
-  tag = ".ListeningEffort"
+  name = "Neural processing of speech"
+  tag = ".EEG"
 [[filter]]
   name = "Korean Prosody"
   tag = ".KoreanProsody"
 [[filter]]
-  name = "L2 Speech Perception"
+  name = "L2 Speech"
   tag = ".L2"
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Language Acquisition"
+  tag = ".LanguageAcquisition"
 
 +++
 

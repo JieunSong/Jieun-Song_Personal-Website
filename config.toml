@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Jieun Song"
+title = "Jieun Song  송지은"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -30,14 +30,14 @@ googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
-hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
+hasCJKLanguage = true  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
 # Get last modified date for content from Git?
 enableGitInfo = false
 
 [outputs]
-  home = [ "HTML", "CSS", "RSS" ]
+  home = [ "HTML", "CSS", "RSS"]
   section = [ "HTML", "RSS" ]
 
 # Configure BlackFriday Markdown rendering.
@@ -182,7 +182,8 @@ enableGitInfo = false
     'Manuscript',  # 3
     'Report',  # 4
     'Book',  # 5
-    'Book section'  # 6
+    'Book section',  # 6
+    'Thesis'  # 7
   ]
 
   # Configuration of talk pages.
@@ -278,12 +279,12 @@ enableGitInfo = false
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
-
-[[menu.main]]
-  name = "Talks"
-  url = "#talks"
   weight = 3
+
+#[[menu.main]]
+#  name = "Talks"
+#  url = "#talks"
+#  weight = 3
   
 [[menu.main]]
     name = "CV"
@@ -296,10 +297,10 @@ enableGitInfo = false
   weight = 5
 
 # Taxonomies.
-#[taxonomies]
-#  tag = "tags"
-#  category = "categories"
-#  publication_type = "publication_types"
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.

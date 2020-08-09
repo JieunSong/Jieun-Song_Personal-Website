@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L2 speech evaluation on Jieun Song  송지은</title>
+    <link>/tags/l2-speech-evaluation/</link>
+    <description>Recent content in L2 speech evaluation on Jieun Song  송지은</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/tags/l2-speech-evaluation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>L2 speech evaluation</title>
+      <link>/project/automaticassessment/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/project/automaticassessment/</guid>
+      <description>Prof. Ho-Young Lee at Seoul National University and I published an article in Applied Psycholinguistics in 2019 where we proposed using our sentence stress metrics to evaluate the speech rhythm of non-native speakers of English. This study demonstrated that sentence stress scores of Korean learners of English were highly correlated with their overall speaking proficiency. This study started as part of a larger project with computer engineers where we built an automatic sentence stress feedback system for Korean learners of English, and this system was found to improve their pronunciation (published in Computer Speech and Language, 2017).</description>
+    </item>
+    
+  </channel>
+</rss>

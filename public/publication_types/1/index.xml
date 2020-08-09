@@ -1,24 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Jieun Song</title>
+    <title>1 on Jieun Song  송지은</title>
     <link>/publication_types/1/</link>
-    <description>Recent content in 1 on Jieun Song</description>
+    <description>Recent content in 1 on Jieun Song  송지은</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0100</pubDate>
+      <title>Native and non-native speech recognition in noise: neural measures of auditory and lexical processing</title>
+      <link>/publication/icphs2019/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0900</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/icphs2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring speech-in-noise intelligibility for spontaneous speech: The effect of native and non-native accents</title>
+      <link>/publication/spontaneous/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0900</pubDate>
+      
+      <guid>/publication/spontaneous/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EEG on Jieun Song  송지은</title>
+    <link>/tags/eeg/</link>
+    <description>Recent content in EEG on Jieun Song  송지은</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/tags/eeg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Neurophysiological investigation of listening effort and multilingual communication</title>
+      <link>/project/listening-effort/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/project/listening-effort/</guid>
+      <description>Listening to a second language (L2) in real life situations (e.g., a noisy restaurant) can be challenging. Native listeners can flexibly modulate their speech processing to overcome the demands of a noisy environment e.g., use semantic-contextual information to understand what is being said. We know very little, however, about the strategies second-language listeners use to enhance their listening. Using electroencephalography (EEG), my PhD work published in Cognition demonstrated that greater listening effort exerted by L2 listeners enhances their auditory processing, as measured by neural tracking of speech, even though their linguistic processes (e.</description>
+    </item>
+    
+  </channel>
+</rss>

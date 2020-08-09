@@ -44,7 +44,7 @@ projects = ["listening effort.md"]
 #url_slides = "#"
 #url_video = "#"
 #url_poster = "#"
-url_source = "https://asa.scitation.org/doi/pdf/10.1121/10.0001477"
+url_source = "https://asa.scitation.org/doi/full/10.1121/10.0001477"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

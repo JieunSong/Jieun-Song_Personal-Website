@@ -37,7 +37,7 @@ defaultContentLanguageInSubdir = false
 enableGitInfo = false
 
 [outputs]
-  home = [ "HTML", "CSS", "RSS"]
+  home = [ "HTML", "CSS", "RSS" ]
   section = [ "HTML", "RSS" ]
 
 # Configure BlackFriday Markdown rendering.
@@ -276,10 +276,14 @@ enableGitInfo = false
 #  url = "#posts"
 #  weight = 3
 
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 3
+  weight = 4
 
 #[[menu.main]]
 #  name = "Talks"

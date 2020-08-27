@@ -32,7 +32,7 @@ filter_default = 0
   name = "All"
   tag = "*"
 [[filter]]
-  name = "Neural processing of speech"
+  name = "EEG"
   tag = ".EEG"
 [[filter]]
   name = "Korean Prosody"

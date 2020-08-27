@@ -21,7 +21,7 @@ publication = "In Proceedings of the 17th International Congress of Phonetic Sci
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "This study investigates the intelligibility of English lexical stress produced by Korean native speakers for English native listeners and Korean native listeners. Listeners had to listen to English disyllabic words where the position of stress determines whether the word is a noun or a verb and identify intended stress patterns. The results reveal that the ‘Interlanguage Speech Intelligibility Benefit’ emerges when high-proficiency Korean listeners are involved. These experienced Korean listeners identified stress patterns produced by low proficiency Korean talkers significantly better than native English listeners. Acoustic analyses suggest that the native English listeners had difficulty understanding words where stress was marked only by F0 and intensity but without any appropriate reduction of vowel quality in unstressed syllables or difference in duration. The Korean high proficiency listeners, however, were very accurate at judging such stress patterns as intended as well as those produced by native English talkers. This will be discussed in relation to phonological systems of second language learners."
 
 # Featured image thumbnail (optional)
 image_preview = ""

@@ -33,7 +33,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename of your project in `content/project/`.
 #   Otherwise, set `projects = []`.
-#projects = ["listening effort.md"]
+projects = ["automaticassessment.md"]
 
 # Links (optional).
 url_source = "https://doi.org/10.1017/S0142716419000298"

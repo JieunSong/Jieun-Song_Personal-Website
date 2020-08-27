@@ -33,7 +33,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename of your project in `content/project/`.
 #   Otherwise, set `projects = []`.
-#projects = ["example-external-project.md"]
+projects = ["Language acquisition.md"]
 
 # Links (optional).
 #url_pdf = "http://sciencebooks.minumsa.com/book/1251/"

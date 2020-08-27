@@ -1,6 +1,6 @@
 +++
 title = "The role of prosodic and visual information in disambiguating wh-phrases: The case of Korean three-year-olds"
-date = 2020-07-26T00:00:00
+date = 2020-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Hye-Jung Cho, Jieun Kiaer, Naya Choi & Jieun Song"]

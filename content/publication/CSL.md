@@ -34,7 +34,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename of your project in `content/project/`.
 #   Otherwise, set `projects = []`.
-#projects = ["example-external-project.md"]
+projects = ["automaticassessment.md"]
 
 # Links (optional).
 url_source = "https://www.sciencedirect.com/science/article/pii/S0885230816301759"

@@ -3,13 +3,13 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "Prosodic disambiguation of wh-words in Korean"
+title = "4. Korean prosody"
 
 # Project summary to display on homepage.
 summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "BAAP.jpg"
+image_preview = "BAAP2.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

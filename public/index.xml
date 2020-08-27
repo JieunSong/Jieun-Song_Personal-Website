@@ -120,27 +120,7 @@
     </item>
     
     <item>
-      <title>Child Language Acquisition</title>
-      <link>/project/language-acquisition/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
-      
-      <guid>/project/language-acquisition/</guid>
-      <description>&lt;p&gt;I have been actively involved in other projects on child language development. I have written a book on child language acquisition with &lt;a href=&#34;https://www.orinst.ox.ac.uk/people/jieun-kiaer&#34; target=&#34;_blank&#34;&gt;Dr. Jieun Kiaer&lt;/a&gt; at the University of Oxford, which was published in 2019 by a highly prestigious publishing house of South Korea, Science Books. While writing this monograph, I became more interested in broader issues on language development and multilingualism. I am collaborating with researchers at Seoul National University and Dr. Jieun Kiaer on a project investigating how Korean children disambiguate wh-words in Korean using prosody. This work is currently under review in &lt;em&gt;Journal of Child Language&lt;/em&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>L2 speech evaluation</title>
-      <link>/project/automaticassessment/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
-      
-      <guid>/project/automaticassessment/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://hoyounglee.me/&#34; target=&#34;_blank&#34;&gt;Prof. Ho-Young Lee&lt;/a&gt; at Seoul National University and I published an article in Applied Psycholinguistics in 2019 where we proposed using our sentence stress metrics to evaluate the speech rhythm of non-native speakers of English. This study demonstrated that sentence stress scores of Korean learners of English were highly correlated with their overall speaking proficiency. This study started as part of a larger project with computer engineers where we built an automatic sentence stress feedback system for Korean learners of English, and this system was found to improve their pronunciation (published in Computer Speech and Language, 2017).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Neurophysiological investigation of listening effort and multilingual communication</title>
+      <title>1. Neural processing of speech</title>
       <link>/project/listening-effort/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
       
@@ -152,6 +132,26 @@
 &lt;ul&gt;
 &lt;li&gt;People feel like they need to &amp;ldquo;listen harder&amp;rdquo; when communicating in a second language, but it isn&amp;rsquo;t clear how this effort changes the brain processes involved in recognising speech. Our initial research has produced a surprising finding; we tested people who were trying to listen to a talker in a noisy background (i.e., a distracting talker), and found that auditory areas of the brain are better at picking out the target talker when people are listening to a second language than their first language. We did this by recording neural activity (electroencephalography; EEG) and measuring how it becomes entrained to the acoustics of speech. Although people would normally be expected to perform better when listening to their first language, we think that second-language listeners had more selective auditory processing because of their additional listening effort. We found related effects for neural measures of word recognition in the same task, and think that we&amp;rsquo;ve found mechanisms that allow second-language learners to partially compensate for their speech recognition difficulties. In this grant project, we will expand our investigation in a series of studies that manipulate the acoustics of speech, and compare how speech is recognised in first and second languages by speakers of English and Korean. Furthermore, we will test adults who learned both languages at the same time when they were young children, adults who learned their second language later in life, and older children who are in the process of learning both languages. Our goals are to understand how people can use listening effort to compensate for their difficulties with second-language speech, and examine how this ability develops and relates to proficiency. This work is important for understanding how people apply their processes and structures for language during everyday speech communication, and is relevant to a wide range of difficult listening conditions (e.g., hearing impairment). The work will also advance our scientific understanding of how new measures of neural entrainment for speech relate to practical aspects of speech recognition.&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2. L2 speech evaluation</title>
+      <link>/project/automaticassessment/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/project/automaticassessment/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://hoyounglee.me/&#34; target=&#34;_blank&#34;&gt;Prof. Ho-Young Lee&lt;/a&gt; at Seoul National University and I published an article in Applied Psycholinguistics in 2019 where we proposed using our sentence stress metrics to evaluate the speech rhythm of non-native speakers of English. This study demonstrated that sentence stress scores of Korean learners of English were highly correlated with their overall speaking proficiency. This study started as part of a larger project with computer engineers where we built an automatic sentence stress feedback system for Korean learners of English, and this system was found to improve their pronunciation (published in Computer Speech and Language, 2017).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3. Child Language Acquisition</title>
+      <link>/project/language-acquisition/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/project/language-acquisition/</guid>
+      <description>&lt;p&gt;I have been actively involved in other projects on child language development. I have written a book on child language acquisition with &lt;a href=&#34;https://www.orinst.ox.ac.uk/people/jieun-kiaer&#34; target=&#34;_blank&#34;&gt;Dr. Jieun Kiaer&lt;/a&gt; at the University of Oxford, which was published in 2019 by a highly prestigious publishing house of South Korea, Science Books. While writing this monograph, I became more interested in broader issues on language development and multilingualism. I am collaborating with researchers at Seoul National University and Dr. Jieun Kiaer on a project investigating how Korean children disambiguate wh-words in Korean using prosody. This work is currently under review in &lt;em&gt;Journal of Child Language&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     

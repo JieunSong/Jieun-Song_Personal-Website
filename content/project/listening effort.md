@@ -3,7 +3,7 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "Neurophysiological investigation of listening effort and multilingual communication"
+title = "1. Neural processing of speech"
 
 # Project summary to display on homepage.
 summary = ""

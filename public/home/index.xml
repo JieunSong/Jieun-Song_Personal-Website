@@ -78,20 +78,20 @@
     
     <item>
       <title>Programming skills</title>
-      <link>/home/skills/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
-      
-      <guid>/home/skills/</guid>
-      <description> I use R extensively for various tasks including statistical analysis, data preprocessing and data visualisation.(I created this website with R Markdown and blogdown. For more information, see this page) I use Matlab for analysing electroencephalogram data mainly with fieldtrip toolbox and for building experiments. I use Praat for performing acoustic analyses.  </description>
-    </item>
-    
-    <item>
-      <title>Programming skills</title>
       <link>/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
       <guid>/home/teaching/</guid>
       <description>I use R most extensively for various tasks including statistical analyses, data preprocessing and visualisation. I use Matlab for analysing electroencephalogram data mainly with fieldtrip toolbox and for building experiments. I use Praat for acoustic analyses. I recently began to use Python for conducting a word2vec analysis.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>/home/skills/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/home/skills/</guid>
+      <description> I use R extensively for various tasks including statistical analysis, data preprocessing and data visualisation.(I created this website with R Markdown and blogdown. For more information, see this page) I use Matlab for analysing electroencephalogram data mainly with fieldtrip toolbox and for building experiments. I use Praat for performing acoustic analyses.  </description>
     </item>
     
     <item>

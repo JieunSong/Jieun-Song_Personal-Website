@@ -3,7 +3,7 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "L2 speech evaluation"
+title = "2. L2 speech evaluation"
 
 # Project summary to display on homepage.
 summary = ""

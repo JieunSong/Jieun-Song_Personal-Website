@@ -13,25 +13,7 @@
     
     
     <item>
-      <title>Child Language Acquisition</title>
-      <link>/project/language-acquisition/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
-      
-      <guid>/project/language-acquisition/</guid>
-      <description>I have been actively involved in other projects on child language development. I have written a book on child language acquisition with Dr. Jieun Kiaer at the University of Oxford, which was published in 2019 by a highly prestigious publishing house of South Korea, Science Books. While writing this monograph, I became more interested in broader issues on language development and multilingualism. I am collaborating with researchers at Seoul National University and Dr.</description>
-    </item>
-    
-    <item>
-      <title>L2 speech evaluation</title>
-      <link>/project/automaticassessment/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
-      
-      <guid>/project/automaticassessment/</guid>
-      <description>Prof. Ho-Young Lee at Seoul National University and I published an article in Applied Psycholinguistics in 2019 where we proposed using our sentence stress metrics to evaluate the speech rhythm of non-native speakers of English. This study demonstrated that sentence stress scores of Korean learners of English were highly correlated with their overall speaking proficiency. This study started as part of a larger project with computer engineers where we built an automatic sentence stress feedback system for Korean learners of English, and this system was found to improve their pronunciation (published in Computer Speech and Language, 2017).</description>
-    </item>
-    
-    <item>
-      <title>Neurophysiological investigation of listening effort and multilingual communication</title>
+      <title>1. Neural processing of speech</title>
       <link>/project/listening-effort/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
       
@@ -40,7 +22,25 @@
     </item>
     
     <item>
-      <title>Prosodic disambiguation of wh-words in Korean</title>
+      <title>2. L2 speech evaluation</title>
+      <link>/project/automaticassessment/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/project/automaticassessment/</guid>
+      <description>Prof. Ho-Young Lee at Seoul National University and I published an article in Applied Psycholinguistics in 2019 where we proposed using our sentence stress metrics to evaluate the speech rhythm of non-native speakers of English. This study demonstrated that sentence stress scores of Korean learners of English were highly correlated with their overall speaking proficiency. This study started as part of a larger project with computer engineers where we built an automatic sentence stress feedback system for Korean learners of English, and this system was found to improve their pronunciation (published in Computer Speech and Language, 2017).</description>
+    </item>
+    
+    <item>
+      <title>3. Child Language Acquisition</title>
+      <link>/project/language-acquisition/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/project/language-acquisition/</guid>
+      <description>I have been actively involved in other projects on child language development. I have written a book on child language acquisition with Dr. Jieun Kiaer at the University of Oxford, which was published in 2019 by a highly prestigious publishing house of South Korea, Science Books. While writing this monograph, I became more interested in broader issues on language development and multilingualism. I am collaborating with researchers at Seoul National University and Dr.</description>
+    </item>
+    
+    <item>
+      <title>4. Korean prosody</title>
       <link>/project/korean-prosody/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
       

@@ -21,7 +21,7 @@ publication = "In Proceedings of the 19th International Congress of Phonetic Sci
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Non-native listeners have more difficulty understanding speech in noise than do native listeners, but it remains unclear to what extent these difficulties arise from early auditory or later linguistic processes. The present study investigated this using EEG when native English and Korean subjects listened to English sentences in listening conditions that varied the demands on peripheral and central processes (single-talker and unintelligible babble). Speech comprehension by non-native listeners was poorer overall and was more adversely affected by noise than that of native listeners. However, neural entrainment to the speech envelope was greater for non-native than native listeners, indicating greater attention to acoustics, but was also more affected by noise. Context-related differences in lexical processing (N400 effect) were greater for native than non-native listeners, and both groups had greater N400 effects for single-talker maskers. The results demonstrate that listeners vary in terms of how they modulate their processing under difficult conditions."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -36,7 +36,7 @@ selected = false
 projects = ["listening effort.md"]
 
 # Links (optional).
-url_pdf = "https://icphs2019.org/icphs2019-fullpapers/pdf/full-paper_725.pdf"
+#url_pdf = "https://icphs2019.org/icphs2019-fullpapers/pdf/full-paper_725.pdf"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"
@@ -44,7 +44,7 @@ url_pdf = "https://icphs2019.org/icphs2019-fullpapers/pdf/full-paper_725.pdf"
 #url_slides = "#"
 #url_video = "#"
 #url_poster = "#"
-#url_source = "#"
+url_source = "https://icphs2019.org/icphs2019-fullpapers/pdf/full-paper_725.pdf"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

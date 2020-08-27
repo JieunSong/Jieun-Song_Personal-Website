@@ -21,7 +21,7 @@ publication = "In Proceedings of the 18th International Congress of Phonetic Sci
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Previous research has found that listeners understand talkers who speak with the same accent as themselves better than others. The aim of the current study was to investigate how speech intelligibility is modulated by this talker-listener accent interaction when native and non-native listeners hear spontaneous speech. To this end, native Southern British English listeners and native Korean listeners were tested on the recognition of read and spontaneous speech spoken with a native English accent (Standard Southern British English) and non-native English accents (Finnish and Korean-accented English). The results demonstrated that native listeners have an intelligibility benefit for their own accent over non-native accents when they listen to spontaneous speech as well as read speech. However, native Korean listeners had a trend for them to have higher intelligibility for Korean-accented speech only in the spontaneous speech condition."
 
 # Featured image thumbnail (optional)
 image_preview = ""

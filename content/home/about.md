@@ -10,11 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Neural Processing of Speech",
-    "Second Language Speech Learning",
-    "Bilingualism",
-    "Korean Phonetics"
-  ]
+    "Speech perception and production",
+    "Neural signatures of speech recognition processes", 
+    "Child language development", 
+    "Second-language speech learning"]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]

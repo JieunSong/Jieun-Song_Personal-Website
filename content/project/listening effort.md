@@ -3,13 +3,13 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "1. Neural processing of speech"
+title = "1. Speech perception in realistic environments"
 
 # Project summary to display on homepage.
 summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "brain.jpg"
+image_preview = "project_EEG.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -27,10 +27,6 @@ math = false
 #caption = "My caption :smile:"
 
 +++
-Listening to a second language (L2) in real life situations (e.g., a noisy restaurant) can be challenging. Native listeners can flexibly modulate their speech processing to overcome the demands of a noisy environment e.g., use semantic-contextual information to understand what is being said. We know very little, however, about the strategies second-language listeners use to enhance their listening. Using electroencephalography (EEG), my PhD work published in Cognition demonstrated that greater listening effort exerted by L2 listeners enhances their auditory processing, as measured by neural tracking of speech, even though their linguistic processes (e.g., lexical-semantic processing as measured by N400) were less developed than those of native listeners.
-
-This work subsequently led to a 3-year ESRC research grant on listening effort and multilingual speech communication where I worked as a postdoctoral researcher (PI: [Prof. Paul Iverson](https://www.ucl.ac.uk/pals/people/paul-iverson)). You can see a summary of this project here, and please find related work on Publications.
-
-<p style="font-size:15px"> 
-People feel like they need to "listen harder" when communicating in a second language, but it isn't clear how this effort changes the brain processes involved in recognising speech. Our initial research has produced a surprising finding; we tested people who were trying to listen to a talker in a noisy background (i.e., a distracting talker), and found that auditory areas of the brain are better at picking out the target talker when people are listening to a second language than their first language. We did this by recording neural activity (electroencephalography; EEG) and measuring how it becomes entrained to the acoustics of speech. Although people would normally be expected to perform better when listening to their first language, we think that second-language listeners had more selective auditory processing because of their additional listening effort. We found related effects for neural measures of word recognition in the same task, and think that we've found mechanisms that allow second-language learners to partially compensate for their speech recognition difficulties. In this grant project, we will expand our investigation in a series of studies that manipulate the acoustics of speech, and compare how speech is recognised in first and second languages by speakers of English and Korean. Furthermore, we will test adults who learned both languages at the same time when they were young children, adults who learned their second language later in life, and older children who are in the process of learning both languages. Our goals are to understand how people can use listening effort to compensate for their difficulties with second-language speech, and examine how this ability develops and relates to proficiency. This work is important for understanding how people apply their processes and structures for language during everyday speech communication, and is relevant to a wide range of difficult listening conditions (e.g., hearing impairment). The work will also advance our scientific understanding of how new measures of neural entrainment for speech relate to practical aspects of speech recognition.
-</p>
+By examining neural responses to speech using Electroencephalography (EEG) across different stages of speech recognition, my research has investigated how listeners process speech in diverse adverse conditions (e.g., listening in a noisy environment, listening to second-language speech). People often report they have to “listen harder” in these difficult conditions, but it is not clear how this effort changes the processes involved in recognising speech. 
+My research has demonstrated that greater listening effort exerted by non-native listeners as well as native listeners enhances their auditory processing, as measured by neural tracking of speech (see Song & Iverson, 2018; Song et al., 2020). At linguistic levels, N400 responses have shown that listeners exert more neural effort for lexical access when the acoustic input (e.g., foreign-accented speech) deviates from their phonological representations. Moreover, listeners can reply more on semantic-contextual cues to overcome the specific difficulty of the noise condition (e.g., intelligible competing talkers). These results demonstrate that listeners can flexibly modulate their speech processing to cope with speech recognition in challenging conditions.
+This research started as part of my PhD (supervisor: [Prof. Paul Iverson](https://www.ucl.ac.uk/pals/people/paul-iverson)), which subsequently led to a 3-year ESRC (Economic & Social Research Council) research grant on listening effort and multilingual speech communication. I worked on this project as a postdoctoral researcher (PI: [Prof. Paul Iverson](https://www.ucl.ac.uk/pals/people/paul-iverson)) between 2017 October and 2020 August. I have recently started a new project on listening effort and alpha oscillations with a research fund I received from the National Research Foundation of Korea.

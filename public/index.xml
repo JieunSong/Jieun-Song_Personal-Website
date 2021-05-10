@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>The role of prosodic and visual information in disambiguating wh-indeterminates: The case of Korean three-year-olds</title>
+      <link>/publication/cho/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0900</pubDate>
+      
+      <guid>/publication/cho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Auditory neural tracking and lexical processing of speech in noise: Masker type, spatial location, and language experience</title>
       <link>/publication/jasa/</link>
       <pubDate>Thu, 16 Jul 2020 00:00:00 +0900</pubDate>
@@ -125,9 +134,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
       
       <guid>/project/listening-effort/</guid>
-      <description>&lt;p&gt;By examining neural responses to speech using Electroencephalography (EEG) across different stages of speech recognition, my research has investigated how listeners process speech in diverse adverse conditions (e.g., listening in a noisy environment, listening to second-language speech). People often report they have to “listen harder” in these difficult conditions, but it is not clear how this effort changes the processes involved in recognising speech.
-My research has demonstrated that greater listening effort exerted by non-native listeners as well as native listeners enhances their auditory processing, as measured by neural tracking of speech (see Song &amp;amp; Iverson, 2018; Song et al., 2020). At linguistic levels, N400 responses have shown that listeners exert more neural effort for lexical access when the acoustic input (e.g., foreign-accented speech) deviates from their phonological representations. Moreover, they increase reliance on semantic-contextual cues to overcome the specific difficulty of the noise condition (e.g., intelligible competing talkers). These results demonstrate that listeners can flexibly modulate their speech processing to cope with speech recognition in challenging conditions.
-This research started as part of my PhD (supervisor: &lt;a href=&#34;https://www.ucl.ac.uk/pals/people/paul-iverson&#34; target=&#34;_blank&#34;&gt;Prof. Paul Iverson&lt;/a&gt;), which subsequently led to a 3-year ESRC research grant on listening effort and multilingual speech communication where I worked as a postdoctoral researcher (PI: &lt;a href=&#34;https://www.ucl.ac.uk/pals/people/paul-iverson&#34; target=&#34;_blank&#34;&gt;Prof. Paul Iverson&lt;/a&gt;) between 2017 October and 2020 August. I have recently started a new project on listening effort and alpha oscillations with a research fund I received from the National Research Foundation of Korea.&lt;/p&gt;
+      <description>&lt;p&gt;By examining neural responses to speech using Electroencephalography (EEG), my research has investigated how listeners process speech across different stages of speech recognition, especially in adverse conditions (e.g., listening in a noisy environment, listening to second-language speech). People often report they have to “listen harder” in these difficult conditions, but it is not clear how this effort changes the processes involved in recognising speech.&lt;br&gt;&lt;br&gt;My research has demonstrated that greater listening effort exerted by non-native listeners as well as native listeners enhances their auditory processing, as measured by neural tracking of speech (see Song &amp;amp; Iverson, 2018; Song et al., 2020). At linguistic levels, their N400 responses have shown that listeners exert more neural effort for lexical access when the acoustic input (e.g., foreign-accented speech) deviates from their phonological representations. Moreover, listeners were found to rely more on semantic-contextual cues to overcome the specific difficulty of the noise condition (e.g., intelligible competing talkers). These results demonstrate that listeners can flexibly modulate their speech processing to cope with speech recognition in challenging conditions.&lt;br&gt;&lt;br&gt;This research started as part of my PhD (supervisor: &lt;a href=&#34;https://www.ucl.ac.uk/pals/people/paul-iverson&#34; target=&#34;_blank&#34;&gt;Prof. Paul Iverson&lt;/a&gt;), which subsequently led to a 3-year ESRC (Economic &amp;amp; Social Research Council) research grant on listening effort and multilingual speech communication. I worked on the ESRC project as a postdoctoral researcher (PI: Prof. Paul Iverson) between 2017 October and 2020 August. I have recently started a new project on listening effort and alpha oscillations with a research fund I received from the National Research Foundation of Korea.&lt;/p&gt;
 </description>
     </item>
     
@@ -138,16 +145,6 @@ This research started as part of my PhD (supervisor: &lt;a href=&#34;https://www
       
       <guid>/project/automaticassessment/</guid>
       <description>&lt;p&gt;I worked with &lt;a href=&#34;https://hoyounglee.me/&#34; target=&#34;_blank&#34;&gt;Prof. Ho-Young Lee&lt;/a&gt; at Seoul National University on a project evaluating English rhythm proficiency with measures of sentence stress. In a paper published in &lt;em&gt;Applied Psycholinguistics&lt;/em&gt; in 2019, we showed that sentence stress scores of Korean learners of English were highly correlated with their overall speaking proficiency. This was part of a larger project with computer engineers where we built an automatic sentence stress feedback system for Korean learners of English, and this system was found to improve their pronunciation (published in &lt;em&gt;Computer Speech and Language&lt;/em&gt;, 2017).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>3. Child Language Acquisition</title>
-      <link>/project/language-acquisition/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
-      
-      <guid>/project/language-acquisition/</guid>
-      <description>&lt;p&gt;I have been actively involved in other projects on child language development. I have written a book on child language acquisition with &lt;a href=&#34;https://www.orinst.ox.ac.uk/people/jieun-kiaer&#34; target=&#34;_blank&#34;&gt;Dr. Jieun Kiaer&lt;/a&gt; at the University of Oxford, which was published in 2019 by a highly prestigious publishing house of South Korea, Science Books. While writing this monograph, I became more interested in broader issues on language development and multilingualism. I am collaborating with researchers at Seoul National University and Dr. Jieun Kiaer on a project investigating how Korean children disambiguate wh-words in Korean using prosody. This work is currently under review in &lt;em&gt;Journal of Child Language&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     

@@ -58,16 +58,16 @@ enableGitInfo = false
 
   # Your details.
   name = "Dr. Jieun Song"
-  role = "Lecturer"
+  role = "Assistant Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Dept. of Linguistics,  Seoul National University", url = "" } ]
+  organizations = [ { name = "School of Humanities & Social Sciences,  KAIST", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "jieun song.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "jieun.song@ucl.ac.uk"
-#  address = "Chandler House, 2 Wakefield Street, London, United Kingdom, WC1N 1PF"
+  email = "jsong@kaist.ac.kr"
+  address = "School of Humanities & Social Sciences, KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon 34141, Republic of Korea"
   office_hours = "email for appointment"
 #  phone = "888 888 88 88"
 #  skype = "echo123"
@@ -230,7 +230,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:jieun.song@ucl.ac.uk"
+    link = "mailto:jsong@kaist.ac.kr"
 
   [[params.social]]
     icon = "twitter"

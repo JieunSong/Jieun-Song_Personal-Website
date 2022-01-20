@@ -28,4 +28,3 @@ math = false
 
 +++
 Project page will be updated soon.
-#I am interested in various issues in speech development and multilingualism. I am currently working on a project on the #acquisition of sibilant fricatives by Korean-English bilingual children with [Kathleen #McCarthy](https://www.qmul.ac.uk/sllf/linguistics/people/academic/profiles/mccarthy.html) at the Queen Mary University of #London. I am also an author of [this book](https://www.jieunsong.com/publication/book/) and was involved with a #collaborative work with researchers in Korea on how children disambiguate wh-words in Korean using prosody (see #[here](https://www.jieunsong.com/publication/cho/)).

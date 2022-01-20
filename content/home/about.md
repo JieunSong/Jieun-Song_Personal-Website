@@ -35,6 +35,6 @@ weight = 5
 
 # About
 I'm an assistant professor in the [School of the Humanities & Social Sciences at KAIST](https://hss.kaist.ac.kr/) (the Korea Advanced Institute of Science and Technology). I was a postdoctoral researcher in the [Dept. of Speech, Hearing and Phonetic Sciences at University College London](https://www.ucl.ac.uk/pals/research/speech-hearing-and-phonetic-sciences) from October 2017 to August 2020. <br/>
-Using electroencephalogram (EEG), I’m interested in investigating how listeners process information (e.g., acoustic, lexical) in the speech signal in real time. My recent research has primarily focused on speech processing by second-language listeners, and how listening effort modulates specific aspects of speech perception. I am also involved in other projects on child language acquisition, second-language speech learning and Korean prosody.
+Using electroencephalogram (EEG), I’m interested in investigating how listeners process information (e.g., acoustic, lexical) in the speech signal in real time. My recent research has primarily focused on speech processing in adverse conditions (e.g., in background noise, non-native listeners), and how listening effort modulates specific aspects of speech perception. I am also involved in other projects on child language acquisition and Korean prosody. I've recently received a research grant from the KT Corporation and embarked on an exciting project on naturalness of synthetic speech.
 
 FYI, my first name is pronounced [tɕi ɨn].

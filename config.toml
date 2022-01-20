@@ -298,7 +298,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 4ß
+  weight = 4
 
 # Taxonomies.
 [taxonomies]

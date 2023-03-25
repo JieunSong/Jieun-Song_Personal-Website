@@ -27,7 +27,7 @@ abstract = "Previous research has shown that the ambiguity of wh-words in Korean
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

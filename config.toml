@@ -227,18 +227,18 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
+ [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:jsong@kaist.ac.kr"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/JSong_UCL"
+  #[[params.social]]
+  #  icon = "twitter"
+  #  icon_pack = "fa"
+  #  link = "//twitter.com/JSong_UCL"
   
   [[params.social]]
-    icon = "researchgate"
+   icon = "researchgate"
     icon_pack = "ai"
     link = "https://www.researchgate.net/profile/Jieun_Song7"
   
@@ -280,10 +280,10 @@ enableGitInfo = false
 #  name = "Projects"
 #  url = "#projects"
 
-#[[menu.main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 3
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 3
 
 #[[menu.main]]
 #  name = "Talks"

@@ -62,12 +62,12 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "School of the Digital Humanities & Social Sciences,  KAIST", url = "" } ]
+  organizations = [ { name = "School of Digital Humanities & Computational Social Sciences,  KAIST", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "jieun song.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "jsong@kaist.ac.kr"
-  address = "School of the Digital Humanities & Social Sciences, KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon 34141, Republic of Korea"
+  address = "School of Digital Humanities & Computational Social Sciences, KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon 34141, Republic of Korea"
   office_hours = "email for appointment"
 #  phone = "888 888 88 88"
 #  skype = "echo123"
@@ -280,10 +280,10 @@ enableGitInfo = false
 #  name = "Projects"
 #  url = "#projects"
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 3
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 3
 
 #[[menu.main]]
 #  name = "Talks"
@@ -301,10 +301,10 @@ enableGitInfo = false
   weight = 5
 
 # Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
+#[taxonomies]
+#  tag = "tags"
+#  category = "categories"
+#  publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
